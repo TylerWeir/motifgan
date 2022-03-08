@@ -9,4 +9,4 @@ MotifGAN is a GAN model trained to produce novel examples of the specific musica
 ### Pending Features
 - Fewshot learning
 - Public facing IO structure
-- Translating output spectrograms into wavforms 
+- Improved Griffin Lim??

@@ -27,3 +27,11 @@ Why StyleGan
 Notes For Dev
 
 Goal Try to implement StyleGan with our dataset
+
+
+
+Task To Be Done
+Doctor From Images to work with out Data.py
+
+We have an issue with the fact that the create_from_images takes in a path to an image then converts it to an numpy array. The Orginal Code will be shown below followed by the edited code
+
